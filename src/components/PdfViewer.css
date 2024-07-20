@@ -1,0 +1,8 @@
+/* src/components/PDFViewer.css */
+
+.pdf-viewer-container {
+    height: 750px;
+    border: 1px solid #0c0b0b;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
